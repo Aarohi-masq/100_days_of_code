@@ -4,3 +4,4 @@ Day2: Studied implementation of login and register activity with customised entr
 Day3: Watched some videos on how to create Splash Screen and Onboarding Screen using Shared Preferences. Tried to create a small application using Microsoft Power Apps having three screens.
 Day4: Implemented a Splash Screen and a function to keep user logged in until he presses logout button using SharedPreferences in an Android Application. And attended a workshop on Ethical Hacking.
 Day5: Skipped this day.
+Day6: Implemented functions to add users info which is accessible by the user whose it belongs to, in an Android Application.  
