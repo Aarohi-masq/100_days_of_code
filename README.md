@@ -5,3 +5,4 @@ Day3: Watched some videos on how to create Splash Screen and Onboarding Screen u
 Day4: Implemented a Splash Screen and a function to keep user logged in until he presses logout button using SharedPreferences in an Android Application. And attended a workshop on Ethical Hacking.
 Day5: Skipped this day.
 Day6: Implemented functions to add users info which is accessible by the user whose it belongs to, in an Android Application.  
+Day7: Learned how an attacker can exploit XSS vulnerability to steal cookie and watched some videos on retrieval of users' data in a list format in Android Application.
