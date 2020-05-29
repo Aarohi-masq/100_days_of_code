@@ -6,3 +6,4 @@ Day4: Implemented a Splash Screen and a function to keep user logged in until he
 Day5: Skipped this day.
 Day6: Implemented functions to add users info which is accessible by the user whose it belongs to, in an Android Application.  
 Day7: Learned how an attacker can exploit XSS vulnerability to steal cookie and watched some videos on retrieval of users' data in a list format in Android Application.
+Day8: Tried to retrieve users' data from Firebase Database by using RecyclerView in Android Application but failed.
