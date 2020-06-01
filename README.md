@@ -9,3 +9,4 @@ Day7: Learned how an attacker can exploit XSS vulnerability to steal cookie and 
 Day8: Tried to retrieve users' data from Firebase Database by using RecyclerView in Android Application but failed.
 Day9: Resolved the errors arrived in retrieving users' data from Firebase Database by using RecyclerView and watched some videos on how to update data in Firebase Realtime Database.
 Day10: Learned some new concepts like switching between two or more layouts in a class file for different functions, traversing grand child node in Firebase Database in Android Application.
+Day11: Successfully implemented delete and update function using button on RecyclerView in my Android Application and watched videos on "Introduction to Autopsy".
