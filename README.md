@@ -12,4 +12,5 @@ Day10: Learned some new concepts like switching between two or more layouts in a
 Day11: Successfully implemented delete and update function using button on RecyclerView in my Android Application and watched videos on "Introduction to Autopsy".
 Day12: Started Software Project Management specialization on coursera.
 Day13: Implemented RecyclerView filtration using SearchView in my Android Application and completed a course of Software Project Management specialization on coursera.
+Day14: Skipped this day.
 
