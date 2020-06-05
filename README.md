@@ -8,9 +8,10 @@ Day6: Implemented functions to add users' info which is accessible by the user w
 Day7: Learned how an attacker can exploit XSS vulnerability to steal cookie and watched some videos on retrieval of users' data in a list format in Android Application.
 Day8: Tried to retrieve users' data from Firebase Database by using RecyclerView in Android Application but failed.
 Day9: Resolved the errors arrived in retrieving users' data from Firebase Database by using RecyclerView and watched some videos on how to update data in Firebase Realtime Database.
-Day10: Learned some new concepts like switching between two or more layouts in a class file for different functions, traversing grand child node in Firebase Database in Android Application.
+Day10: Learned some new concepts like switching between two or more layouts in a class file for different functions, traversing grandchild node in Firebase Database in Android Application.
 Day11: Successfully implemented delete and update function using button on RecyclerView in my Android Application and watched videos on "Introduction to Autopsy".
 Day12: Started Software Project Management specialization on coursera.
 Day13: Implemented RecyclerView filtration using SearchView in my Android Application and completed a course of Software Project Management specialization on coursera.
 Day14: Skipped this day.
+Day15: Implemented date picker, time picker, local notification on button click, scheduled notifications by creating two channel IDs in my Android Application.
 
