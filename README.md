@@ -14,4 +14,4 @@ Day12: Started Software Project Management specialization on coursera.
 Day13: Implemented RecyclerView filtration using SearchView in my Android Application and completed a course of Software Project Management specialization on coursera.
 Day14: Skipped this day.
 Day15: Implemented date picker, time picker, local notification on button click, and scheduled notifications by creating two channel IDs in my Android Application.
-
+Day16: Watched some videos on "Exploitation of XSS".
