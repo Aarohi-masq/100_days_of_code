@@ -17,3 +17,4 @@ Day15: Implemented date picker, time picker, local notification on button click,
 Day16: Watched some videos on "Exploitation of XSS".
 Day17: Attended a session on IDOR (insecure direct object reference) vulnerability and a session on "Leadership" by MSPInpire.
 Day18: Watched video on "Secure Password Storage" and read some pages of "CTF Field Guide" book.
+Day19: Watched video on " Storing path of images (stored in firebase storage) in firebase database" and read some writeups on CTF.
