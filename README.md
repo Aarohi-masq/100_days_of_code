@@ -19,3 +19,4 @@ Day17: Attended a session on IDOR (insecure direct object reference) vulnerabili
 Day18: Watched video on "Secure Password Storage" and read some pages of "CTF Field Guide" book.
 Day19: Watched video on " Storing path of images (stored in firebase storage) in firebase database" and read some writeups on CTF.
 Day20: Implemented "Storing path of images (stored in firebase storage) in firebase database" and watched video on "how to update image and its path in Firebase Database, associated with some data".
+Day21: Completed Software Product Management Specialization on coursera.
