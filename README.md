@@ -21,3 +21,4 @@ Day19: Watched video on " Storing path of images (stored in firebase storage) in
 Day20: Implemented "Storing path of images (stored in firebase storage) in firebase database" and watched video on "how to update image and its path in Firebase Database, associated with some data".
 Day21: Completed Software Product Management Specialization on coursera.
 Day22: Created activities to store and retrieve images using RecyclerView.
+Day23: Implemented Alert Dialog on deleting item from Firebase and a function to download image from Firebase storage.
