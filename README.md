@@ -22,3 +22,4 @@ Day20: Implemented "Storing path of images (stored in firebase storage) in fireb
 Day21: Completed Software Product Management Specialization on coursera.
 Day22: Created activities to store and retrieve images using RecyclerView.
 Day23: Implemented Alert Dialog on deleting item from Firebase and a function to download image from Firebase storage.
+Day24: Learned "how to exploit DOM based XSS" and Started a course "Build your Portfolio Website" on coursera.
