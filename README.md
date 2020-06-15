@@ -23,3 +23,4 @@ Day21: Completed Software Product Management Specialization on coursera.
 Day22: Created activities to store and retrieve images using RecyclerView.
 Day23: Implemented Alert Dialog on deleting item from Firebase and a function to download image from Firebase storage.
 Day24: Learned "how to exploit DOM based XSS" and Started a course "Build your Portfolio Website" on coursera.
+Day25: Sorted items of RecyclerView by date in my Android Application and read some pages of "CTF Field Guide" book.
