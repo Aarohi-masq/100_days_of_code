@@ -26,3 +26,4 @@ Day24: Learned "how to exploit DOM based XSS" and Started a course "Build your P
 Day25: Sorted items of RecyclerView by date in my Android Application and read some pages of "CTF Field Guide" book.
 Day26: Created horizontal RecyclerView and just updated my resume after a long time.
 Day27: Started end-term exam preparation and fixed some bugs in my application.
+Day28: Covered Servlet and JSP in object oriented programming.
