@@ -27,3 +27,4 @@ Day25: Sorted items of RecyclerView by date in my Android Application and read s
 Day26: Created horizontal RecyclerView and just updated my resume after a long time.
 Day27: Started end-term exam preparation and fixed some bugs in my application.
 Day28: Covered Servlet and JSP in object oriented programming.
+Day29: Skipped this day.
