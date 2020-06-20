@@ -28,3 +28,4 @@ Day26: Created horizontal RecyclerView and just updated my resume after a long t
 Day27: Started end-term exam preparation and fixed some bugs in my application.
 Day28: Covered Servlet and JSP in object oriented programming.
 Day29: Skipped this day.
+Day30: Covered basics of Digital Forensics and JDBC in object oriented programming.
