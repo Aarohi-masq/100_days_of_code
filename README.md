@@ -31,3 +31,4 @@ Day29: Skipped this day.
 Day30: Covered basics of Digital Forensics and JDBC in object oriented programming.
 Day31: Completed "CTF Field Guide" book.
 Day32: Resolved some errors in my android application and covered java StringBuilder and StringBuffer.
+Day33: Just revised SDLC models, their advantages and disadvantages.
