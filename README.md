@@ -32,3 +32,4 @@ Day30: Covered basics of Digital Forensics and JDBC in object oriented programmi
 Day31: Completed "CTF Field Guide" book.
 Day32: Resolved some errors in my android application and covered java StringBuilder and StringBuffer.
 Day33: Just revised SDLC models, their advantages and disadvantages.
+Day34: Completed module 1 (Email investigation) of CyberANZ virtual internship and tried to own LazyAdmin machine on TryHackMe but failed.
