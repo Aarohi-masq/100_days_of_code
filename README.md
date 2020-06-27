@@ -35,3 +35,4 @@ Day33: Just revised SDLC models, their advantages and disadvantages.
 Day34: Completed module 1 (Email investigation) of CyberANZ virtual internship and tried to own LazyAdmin machine on TryHackMe but failed.
 Day35: Completed "Learn Linux" on TryHackMe.
 Day36: Learned to deploy website on github in "Build your Portfolio Website" course of coursera and practiced some more basic commands of Linux and its flags.
+Day37: Participating in Defcon CTF and solved 2-3 tasks of vulnversity on TryHackMe.
