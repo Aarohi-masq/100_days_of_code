@@ -36,3 +36,4 @@ Day34: Completed module 1 (Email investigation) of CyberANZ virtual internship a
 Day35: Completed "Learn Linux" on TryHackMe.
 Day36: Learned to deploy website on github in "Build your Portfolio Website" course of coursera and practiced some more basic commands of Linux and its flags.
 Day37: Participating in Defcon CTF and solved 2-3 tasks of vulnversity on TryHackMe.
+Day38: Completed Vulnuniversity on TryHackMe and Started Bandit wargame on OverTheWire.
