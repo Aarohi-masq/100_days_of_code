@@ -37,3 +37,4 @@ Day35: Completed "Learn Linux" on TryHackMe.
 Day36: Learned to deploy website on github in "Build your Portfolio Website" course of coursera and practiced some more basic commands of Linux and its flags.
 Day37: Participating in Defcon CTF and solved 2-3 tasks of vulnversity on TryHackMe.
 Day38: Completed Vulnuniversity on TryHackMe and Started Bandit wargame on OverTheWire.
+Day39: Maintained Documentation of OverTheWire Bandit challenges, completed its challenges upto bandit13 and practiced some java programs of package and JDBC.
