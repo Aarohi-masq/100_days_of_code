@@ -8,7 +8,7 @@ Day6: Implemented functions to add users' info which is accessible by the user w
 Day7: Learned how an attacker can exploit XSS vulnerability to steal cookie and watched some videos on retrieval of users' data in a list format in Android Application.
 Day8: Tried to retrieve users' data from Firebase Database by using RecyclerView in Android Application but failed.
 Day9: Resolved the errors arrived in retrieving users' data from Firebase Database by using RecyclerView and watched some videos on how to update data in Firebase Realtime Database.
-Day10: Learned some new concepts like switching between two or more layouts in a class file for different functions, traversing grandchild node in Firebase Database in Android Application.
+Day10: Learned some new concepts like switching between two or more layouts in a class file for different functions, traversing grandchild node in Firebase Database in Android Application. 
 Day11: Successfully implemented delete and update function using button on RecyclerView in my Android Application and watched videos on "Introduction to Autopsy".
 Day12: Started Software Project Management specialization on coursera.
 Day13: Implemented RecyclerView filtration using SearchView in my Android Application and completed a course of Software Project Management specialization on coursera.
@@ -37,4 +37,5 @@ Day35: Completed "Learn Linux" on TryHackMe.
 Day36: Learned to deploy website on github in "Build your Portfolio Website" course of coursera and practiced some more basic commands of Linux and its flags.
 Day37: Participating in Defcon CTF and solved 2-3 tasks of vulnversity on TryHackMe.
 Day38: Completed Vulnuniversity on TryHackMe and Started Bandit wargame on OverTheWire.
-Day39: Maintained Documentation of OverTheWire Bandit challenges, completed its challenges upto bandit13 and practiced some java programs of package and JDBC.
+Day39: Maintained Documentation of OverTheWire Bandit challenges, completed its challenges upto bandit13 and practiced some java programs of package and JDBC. 
+Day40: Just practiced some java programs on Servlet and JSP and covered some ppts of Requirement analysis and Data Flow Diagrams in Software Engineering and Program Management
