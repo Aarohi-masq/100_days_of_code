@@ -39,3 +39,4 @@ Day37: Participating in Defcon CTF and solved 2-3 tasks of vulnversity on TryHac
 Day38: Completed Vulnuniversity on TryHackMe and Started Bandit wargame on OverTheWire.
 Day39: Maintained Documentation of OverTheWire Bandit challenges, completed its challenges upto bandit13 and practiced some java programs of package and JDBC. 
 Day40: Just practiced some java programs on Servlet and JSP and covered some ppts of Requirement analysis and Data Flow Diagrams in Software Engineering and Product Management
+Day41: Skipped
