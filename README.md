@@ -42,3 +42,4 @@ Day40: Just practiced some java programs on Servlet and JSP and covered some ppt
 Day41: Skipped.
 Day42: Revised some topics of Software Engineering and Product Management.
 Day43: Revised some rest topics of Software Engineering and Product Management.
+Day44: Studying for University end sem exams. Will continue after 14th july.
