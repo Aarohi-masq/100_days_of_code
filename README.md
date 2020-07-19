@@ -45,3 +45,4 @@ Day43: Revised some rest topics of Software Engineering and Product Management.
 Day44: Studying for University end sem exams. Will continue after 14th july.
 Day45: Completed CyberANZ virtual internship and consumed some XSS attack videos.
 Day46: Just solved "nmap" machine of TryHackMe.
+Day47: Started with Basic penetration testing machine of TryHackMe.
