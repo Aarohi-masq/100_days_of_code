@@ -46,3 +46,4 @@ Day44: Studying for University end sem exams. Will continue after 14th july.
 Day45: Completed CyberANZ virtual internship and consumed some XSS attack videos.
 Day46: Just solved "nmap" machine of TryHackMe.
 Day47: Started with Basic penetration testing machine of TryHackMe.
+Day48: Resolved some crashes in my android application and got familiar with dirBuster.
