@@ -48,3 +48,4 @@ Day46: Just solved "nmap" machine of TryHackMe.
 Day47: Started with Basic penetration testing machine of TryHackMe.
 Day48: Resolved some crashes in my android application and got familiar with dirBuster.
 Day49: Did some java programs.
+Day50: Documented the findings and concepts of Basic Penetration Testing machine of TryHackMe and learned brute forcing using Hydra, finding hidden directories using Dirbuster.
