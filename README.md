@@ -50,3 +50,4 @@ Day48: Resolved some crashes in my android application and got familiar with dir
 Day49: Did some java programs.
 Day50: Documented the findings and concepts of Basic Penetration Testing machine of TryHackMe and learned brute forcing using Hydra, finding hidden directories using Dirbuster.
 Day51: Done nothing much just consumed some videos of broken authentication.
+Day52: Completed Basic Penetration Testing machine of TryHackMe.
