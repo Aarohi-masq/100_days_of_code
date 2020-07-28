@@ -52,3 +52,4 @@ Day50: Documented the findings and concepts of Basic Penetration Testing machine
 Day51: Done nothing much just consumed some videos of broken authentication.
 Day52: Completed Basic Penetration Testing machine of TryHackMe.
 Day53: Completed documentation of Basic Penetration Testing machine and nmap machine of TryHackMe.
+Day54: Did two tasks of MCSI remote internship. Check my progress on the portfolio: https://students.mosse-institute.com/student/zZPgE7YPRPdl1TZUTbYluE2XcYI3
