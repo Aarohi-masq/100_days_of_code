@@ -19,39 +19,39 @@ Day17: Attended a session on IDOR (insecure direct object reference) vulnerabili
 Day18: Watched video on "Secure Password Storage" and read some pages of "CTF Field Guide" book.  
 Day19: Watched video on " Storing path of images (stored in firebase storage) 
 in firebase database" and read some writeups on CTF.  
-Day20: Implemented "Storing path of images (stored in firebase storage) in firebase database" and watched video on "how to update image and its path in Firebase Database, associated with some data".
-Day21: Completed Software Product Management Specialization on coursera.
-Day22: Created activities to store and retrieve images using RecyclerView.
-Day23: Implemented Alert Dialog on deleting item from Firebase and a function to download image from Firebase storage.
-Day24: Learned "how to exploit DOM based XSS" and Started a course "Build your Portfolio Website" on coursera.
-Day25: Sorted items of RecyclerView by date in my Android Application and read some pages of "CTF Field Guide" book.
-Day26: Created horizontal RecyclerView and just updated my resume after a long time.
-Day27: Started end-term exam preparation and fixed some bugs in my application.
-Day28: Covered Servlet and JSP in object oriented programming.
-Day29: Skipped this day.
-Day30: Covered basics of Digital Forensics and JDBC in object oriented programming.
-Day31: Completed "CTF Field Guide" book.
-Day32: Resolved some errors in my android application and covered java StringBuilder and StringBuffer.
-Day33: Just revised SDLC models, their advantages and disadvantages.
-Day34: Completed module 1 (Email investigation) of CyberANZ virtual internship and tried to own LazyAdmin machine on TryHackMe but failed.
-Day35: Completed "Learn Linux" on TryHackMe.
-Day36: Learned to deploy website on github in "Build your Portfolio Website" course of coursera and practiced some more basic commands of Linux and its flags.
-Day37: Participating in Defcon CTF and solved 2-3 tasks of vulnversity on TryHackMe.
-Day38: Completed Vulnuniversity on TryHackMe and Started Bandit wargame on OverTheWire.
-Day39: Maintained Documentation of OverTheWire Bandit challenges, completed its challenges upto bandit13 and practiced some java programs of package and JDBC. 
-Day40: Just practiced some java programs on Servlet and JSP and covered some ppts of Requirement analysis and Data Flow Diagrams in Software Engineering and Product Management.
-Day41: Skipped.
-Day42: Revised some topics of Software Engineering and Product Management.
-Day43: Revised some rest topics of Software Engineering and Product Management.
-Day44: Studying for University end sem exams. Will continue after 14th july.
-Day45: Completed CyberANZ virtual internship and consumed some XSS attack videos.
-Day46: Just solved "nmap" machine of TryHackMe.
-Day47: Started with Basic penetration testing machine of TryHackMe.
-Day48: Resolved some crashes in my android application and got familiar with dirBuster.
-Day49: Did some java programs.
-Day50: Documented the findings and concepts of Basic Penetration Testing machine of TryHackMe and learned brute forcing using Hydra, finding hidden directories using Dirbuster.
-Day51: Done nothing much just consumed some videos of broken authentication.
-Day52: Completed Basic Penetration Testing machine of TryHackMe.
-Day53: Completed documentation of Basic Penetration Testing machine and nmap machine of TryHackMe.
+Day20: Implemented "Storing path of images (stored in firebase storage) in firebase database" and watched video on "how to update image and its path in Firebase Database, associated with some data".  
+Day21: Completed Software Product Management Specialization on coursera.  
+Day22: Created activities to store and retrieve images using RecyclerView.  
+Day23: Implemented Alert Dialog on deleting item from Firebase and a function to download image from Firebase storage.  
+Day24: Learned "how to exploit DOM based XSS" and Started a course "Build your Portfolio Website" on coursera.  
+Day25: Sorted items of RecyclerView by date in my Android Application and read some pages of "CTF Field Guide" book.  
+Day26: Created horizontal RecyclerView and just updated my resume after a long time.  
+Day27: Started end-term exam preparation and fixed some bugs in my application.  
+Day28: Covered Servlet and JSP in object oriented programming.  
+Day29: Skipped this day.  
+Day30: Covered basics of Digital Forensics and JDBC in object oriented programming.  
+Day31: Completed "CTF Field Guide" book.  
+Day32: Resolved some errors in my android application and covered java StringBuilder and StringBuffer.  
+Day33: Just revised SDLC models, their advantages and disadvantages.  
+Day34: Completed module 1 (Email investigation) of CyberANZ virtual internship and tried to own LazyAdmin machine on TryHackMe but failed.  
+Day35: Completed "Learn Linux" on TryHackMe.  
+Day36: Learned to deploy website on github in "Build your Portfolio Website" course of coursera and practiced some more basic commands of Linux and its flags.  
+Day37: Participating in Defcon CTF and solved 2-3 tasks of vulnversity on TryHackMe.  
+Day38: Completed Vulnuniversity on TryHackMe and Started Bandit wargame on OverTheWire.  
+Day39: Maintained Documentation of OverTheWire Bandit challenges, completed its challenges upto bandit13 and practiced some java programs of package and JDBC.   
+Day40: Just practiced some java programs on Servlet and JSP and covered some ppts of Requirement analysis and Data Flow Diagrams in Software Engineering and Product Management.  
+Day41: Skipped.  
+Day42: Revised some topics of Software Engineering and Product Management.  
+Day43: Revised some rest topics of Software Engineering and Product Management.  
+Day44: Studying for University end sem exams. Will continue after 14th july.  
+Day45: Completed CyberANZ virtual internship and consumed some XSS attack videos.  
+Day46: Just solved "nmap" machine of TryHackMe.  
+Day47: Started with Basic penetration testing machine of TryHackMe.  
+Day48: Resolved some crashes in my android application and got familiar with dirBuster.  
+Day49: Did some java programs.  
+Day50: Documented the findings and concepts of Basic Penetration Testing machine of TryHackMe and learned brute forcing using Hydra, finding hidden directories using Dirbuster.  
+Day51: Done nothing much just consumed some videos of broken authentication.  
+Day52: Completed Basic Penetration Testing machine of TryHackMe.  
+Day53: Completed documentation of Basic Penetration Testing machine and nmap machine of TryHackMe.  
 Day54: Did two tasks of MCSI remote internship. Check my progress on the portfolio: https://students.mosse-institute.com/student/zZPgE7YPRPdl1TZUTbYluE2XcYI3  
 Day55: Explored Broken Authentication and Session Management vulnerability and tried to pratice over Bwapp.  
