@@ -55,3 +55,4 @@ Day52: Completed Basic Penetration Testing machine of TryHackMe.
 Day53: Completed documentation of Basic Penetration Testing machine and nmap machine of TryHackMe.  
 Day54: Did two tasks of MCSI remote internship. Check my progress on the portfolio: https://students.mosse-institute.com/student/zZPgE7YPRPdl1TZUTbYluE2XcYI3  
 Day55: Explored Broken Authentication and Session Management vulnerability and tried to pratice over Bwapp.  
+Day56: Skipped
