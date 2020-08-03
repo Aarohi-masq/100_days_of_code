@@ -59,3 +59,4 @@ Day56: Skipped
 Day57: Did "Perform a TCP port scan using nmap" task of MCSI remote internship. Check my progress on the portfolio: https://students.mosse-institute.com/student/zZPgE7YPRPdl1TZUTbYluE2XcYI3  
 Day58: Started python on One-month and have learned about parquet dataset.  
 Day59: Learned and practiced on random library of python.  
+Day60: Skipped
