@@ -63,4 +63,5 @@ Day60: Skipped
 Day61: Practiced and learned some more new concepts of Python.  
 Day62: Download a lot of stuff like different version of Windows iso file, Malwares, Softwares for reverse engineering etc to set up lab for MCSI internship.  
 Day63: Learnt Python logical operators.  
-Day64: Covered some topics like Lists and Dictionaries, get(), replace(), append() in python.
+Day64: Covered some topics like Lists and Dictionaries, get(), replace(), append() in python.  
+Day65: Did practice of functions in python
