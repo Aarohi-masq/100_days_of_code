@@ -17,8 +17,7 @@ Day15: Implemented date picker, time picker, local notification on button click,
 Day16: Watched some videos on "Exploitation of XSS".  
 Day17: Attended a session on IDOR (insecure direct object reference) vulnerability and a session on "Leadership" by MSPInpire.  
 Day18: Watched video on "Secure Password Storage" and read some pages of "CTF Field Guide" book.  
-Day19: Watched video on " Storing path of images (stored in firebase storage) 
-in firebase database" and read some writeups on CTF.  
+Day19: Watched video on " Storing path of images (stored in firebase storage) in firebase database" and read some writeups on CTF.  
 Day20: Implemented "Storing path of images (stored in firebase storage) in firebase database" and watched video on "how to update image and its path in Firebase Database, associated with some data".  
 Day21: Completed Software Product Management Specialization on coursera.  
 Day22: Created activities to store and retrieve images using RecyclerView.  
@@ -67,3 +66,4 @@ Day64: Covered some topics like Lists and Dictionaries, get(), replace(), append
 Day65: Did practice of functions in python  
 Day66: Practiced on lists and dictionaries in python
 Day67: Worked on jupyter notebook and practiced on pandas, matplotlib in python 
+Day68: Started with Flask introduction.
