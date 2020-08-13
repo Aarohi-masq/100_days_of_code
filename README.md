@@ -67,3 +67,5 @@ Day65: Did practice of functions in python
 Day66: Practiced on lists and dictionaries in python
 Day67: Worked on jupyter notebook and practiced on pandas, matplotlib in python 
 Day68: Started with Flask introduction.
+Day69: Practiced on Flask.
+Day70: Solved some problems of Python on Hackerrank.
