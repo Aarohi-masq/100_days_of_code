@@ -69,3 +69,4 @@ Day67: Worked on jupyter notebook and practiced on pandas, matplotlib in python
 Day68: Started with Flask introduction.
 Day69: Practiced on Flask.
 Day70: Solved some problems of Python on Hackerrank.
+Day71: Learnt the stages of compiler and their working in brief.
