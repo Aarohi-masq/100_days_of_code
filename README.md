@@ -72,3 +72,4 @@ Day70: Solved some problems of Python on Hackerrank.
 Day71: Learnt the stages of compiler and their working in brief.
 Day72: Solved "Introductory Researching" on TryHackMe.
 Day73: Started with a course on HackingFlix and downloaded some malwares for completing the"Malware Dataset" task of MCSI remote internship.
+Day74: Learnt how to declare variables private, protected, public in python and completed two videos of Certified Cyber Ninja of HackingFlix.
