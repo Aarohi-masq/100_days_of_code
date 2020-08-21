@@ -76,3 +76,4 @@ Day74: Learnt how to declare variables private, protected, public in python and 
 Day75: Did Malware Dataset task of MCSI and waiting for the results.
 Day76: Passed in the task of MCSI and started Google Dorking machine of TryHackMe.
 Day77: Learnt some functions of python like enumerate(), end(), etc. and did some tasks of Google Dorking machine of TryHackMe.
+Day78: Completed Google Dorking machine on TryHackMe.
