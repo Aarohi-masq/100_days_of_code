@@ -71,9 +71,10 @@ Day69: Practiced on Flask.
 Day70: Solved some problems of Python on Hackerrank.  
 Day71: Learnt the stages of compiler and their working in brief.
 Day72: Solved "Introductory Researching" on TryHackMe.
-Day73: Started with a course on HackingFlix and downloaded some malwares for completing the"Malware Dataset" task of MCSI remote internship.
-Day74: Learnt how to declare variables private, protected, public in python and completed two videos of Certified Cyber Ninja of HackingFlix.
-Day75: Did Malware Dataset task of MCSI and waiting for the results.
-Day76: Passed in the task of MCSI and started Google Dorking machine of TryHackMe.
-Day77: Learnt some functions of python like enumerate(), end(), etc. and did some tasks of Google Dorking machine of TryHackMe.
-Day78: Completed Google Dorking machine on TryHackMe.
+Day73: Started with a course on HackingFlix and downloaded some malwares for completing the"Malware Dataset" task of MCSI remote internship.  
+Day74: Learnt how to declare variables private, protected, public in python and completed two videos of Certified Cyber Ninja of HackingFlix.  
+Day75: Did Malware Dataset task of MCSI and waiting for the results.  
+Day76: Passed in the task of MCSI and started Google Dorking machine of TryHackMe.  
+Day77: Learnt some functions of python like enumerate(), end(), etc. and did some tasks of Google Dorking machine of TryHackMe.  
+Day78: Completed Google Dorking machine on TryHackMe.  
+Day79: Just did some code to design a scenery.
