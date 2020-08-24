@@ -78,3 +78,5 @@ Day76: Passed in the task of MCSI and started Google Dorking machine of TryHackM
 Day77: Learnt some functions of python like enumerate(), end(), etc. and did some tasks of Google Dorking machine of TryHackMe.  
 Day78: Completed Google Dorking machine on TryHackMe.  
 Day79: Just did some code to design a scenery.
+Day80: Add some more primitives to the scenery.
+Day81: Started Blue room on TryHackMe.
