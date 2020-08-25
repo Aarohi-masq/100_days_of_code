@@ -80,3 +80,4 @@ Day78: Completed Google Dorking machine on TryHackMe.
 Day79: Just did some code to design a scenery.
 Day80: Add some more primitives to the scenery.
 Day81: Started Blue room on TryHackMe.
+Day82: Spent some time on playing CTF challenges.
