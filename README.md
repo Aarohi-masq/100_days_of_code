@@ -82,3 +82,4 @@ Day80: Add some more primitives to the scenery.
 Day81: Started Blue room on TryHackMe.
 Day82: Spent some time on playing CTF challenges.
 Day83: solving metasploit and blue rooms of TryHackMe in parallel.
+Day84: Solved 5 to 6 problems of python on Hackerrank.
