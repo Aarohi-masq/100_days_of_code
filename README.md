@@ -76,11 +76,12 @@ Day74: Learnt how to declare variables private, protected, public in python and 
 Day75: Did Malware Dataset task of MCSI and waiting for the results.  
 Day76: Passed in the task of MCSI and started Google Dorking machine of TryHackMe.  
 Day77: Learnt some functions of python like enumerate(), end(), etc. and did some tasks of Google Dorking machine of TryHackMe.  
-Day78: Completed Google Dorking machine on TryHackMe.  
-Day79: Just did some code to design a scenery.
-Day80: Add some more primitives to the scenery.
-Day81: Started Blue room on TryHackMe.
-Day82: Spent some time on playing CTF challenges.
-Day83: solving metasploit and blue rooms of TryHackMe in parallel.
-Day84: Solved 5 to 6 problems of python on Hackerrank.
-Day85: Started solving OWASP Juice-Shop room on TryHackMe.
+Day78: Completed Google Dorking machine on TryHackMe.   
+Day79: Just did some code to design a scenery.  
+Day80: Add some more primitives to the scenery.  
+Day81: Started Blue room on TryHackMe.  
+Day82: Spent some time on playing CTF challenges.  
+Day83: solving metasploit and blue rooms of TryHackMe in parallel.  
+Day84: Solved 5 to 6 problems of python on Hackerrank.  
+Day85: Started solving OWASP Juice-Shop room on TryHackMe.  
+Day86: Just did some college stuff.
