@@ -84,4 +84,5 @@ Day82: Spent some time on playing CTF challenges.
 Day83: solving metasploit and blue rooms of TryHackMe in parallel.  
 Day84: Solved 5 to 6 problems of python on Hackerrank.  
 Day85: Started solving OWASP Juice-Shop room on TryHackMe.  
-Day86: Just did some college stuff.
+Day86: Just did some college stuff.  
+Day87: Solved some questions of Metasploit room on TryHackMe.  
