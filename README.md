@@ -87,3 +87,4 @@ Day85: Started solving OWASP Juice-Shop room on TryHackMe.
 Day86: Just did some college stuff.  
 Day87: Solved some questions of Metasploit room on TryHackMe.  
 Day88: Solved some tasks of Metasploit room on TryHackMe.  
+Day89: Solved challenges of Blue room on TryHackMe.
