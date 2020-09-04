@@ -90,3 +90,4 @@ Day88: Solved some tasks of Metasploit room on TryHackMe.
 Day89: Solved challenges of Blue room on TryHackMe.
 Day90: Skipped.
 Day91: Solved some hackerrank python programs.
+Day92: Solved some hackerrank python programs.
