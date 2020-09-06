@@ -87,7 +87,9 @@ Day85: Started solving OWASP Juice-Shop room on TryHackMe.
 Day86: Just did some college stuff.  
 Day87: Solved some questions of Metasploit room on TryHackMe.  
 Day88: Solved some tasks of Metasploit room on TryHackMe.  
-Day89: Solved challenges of Blue room on TryHackMe.
-Day90: Skipped.
-Day91: Solved some hackerrank python programs.
-Day92: Solved some hackerrank python programs.
+Day89: Solved challenges of Blue room on TryHackMe.  
+Day90: Skipped.  
+Day91: Solved some hackerrank python programs.  
+Day92: Solved some hackerrank python programs.  
+Day93: Solved all the challenges of string in python on Hackerrank.  
+Day94:Implemented Bresenham and DDA algorithm and did two task of MCSI internship.
