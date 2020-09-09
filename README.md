@@ -95,4 +95,4 @@ Day93: Solved all the challenges of string in python on Hackerrank.
 Day94: Implemented Bresenham and DDA algorithm and did two task of MCSI internship.  
 Day95: Revised the topics in Noida cyber cell intern. The topics were Different Security policies, Physical security, Intro to Penetration testing, Need of penetration testing, Types of penetration testing, Different Standards and compliances, Cyber laws  
 Day96: Covered some topics like VoIp, RFC, NFS, nmap, metasploit, red_hawk.  
-
+Day97: Learned some privilege escalation techniques and vulnerability scanner like OWASP ZAP etc.
