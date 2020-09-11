@@ -97,3 +97,4 @@ Day95: Revised the topics in Noida cyber cell intern. The topics were Different 
 Day96: Covered some topics like VoIp, RFC, NFS, nmap, metasploit, red_hawk.  
 Day97: Learned some privilege escalation techniques and vulnerability scanner like OWASP ZAP etc.
 Day98: Learned about creation of malwares.
+Day99: Did a task of Blue TryHackMe.
